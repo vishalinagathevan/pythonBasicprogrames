@@ -25,6 +25,7 @@ myfunction =lam_function(5)
 myfun =lam_function(2) 
 print(myfunction(10))  
 print(myfun(20)) 
+print(myfun(20)) 
 
 
 
