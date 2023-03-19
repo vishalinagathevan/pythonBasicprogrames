@@ -9,4 +9,5 @@ print()
 
 Name ="VishaLI"
 Lower_Case_Latters =[i for i in Name if i.islower()]  
-print(Lower_Case_Latters)       
+print(Lower_Case_Latters) 
+print(Lower_Case_Latters) 
