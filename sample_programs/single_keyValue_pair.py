@@ -7,9 +7,10 @@ food = {
 # P rint the only single key 
 print(x)
 print()
+
 animal= {
   "dog": "eating",
-}
+  }
 #  (x,y), = animal.items()
 assign =animal.keys()
 print(assign)
