@@ -18,7 +18,7 @@ student ={
     "name" :"ramya",
     "age" : 21,
     "id"  :202,                       #??????
-    "id" : 203
+    "id" : 2001
 }
 print(student)
 
@@ -88,7 +88,7 @@ print(v)
 #change in the original dictionary
 student["class"]="b"
 print(student)
-
+"""
 #add a new  ideam in  original dictionary
 student ["class teacher"]="techers"
 print(student)
@@ -182,7 +182,7 @@ print(newdice)
 
 #  Nested Dictionaries
 # one dict cn contain dict
-
+"""
 my_class={
     "10th":{
     "tamil":"mark",
@@ -197,7 +197,6 @@ my_class={
     "computer":"cp mark",
     " maths":"mat mark"
     }
-
 }
 print(my_class)
 
