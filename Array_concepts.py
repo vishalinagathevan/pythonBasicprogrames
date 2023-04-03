@@ -25,3 +25,5 @@ print(num)            # remove 2 value
 
 num.remove(3)
 print(num)
+
+

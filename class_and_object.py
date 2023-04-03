@@ -101,5 +101,39 @@ class Vishali:
 x =Vishali()
 x.info("raja",22)
 
+#
+print()
+class Employee:
+   
+   def __init__(self, name, salary):
+      self.name = name
+      self.salary = salary
+  
+   def display(self,age):
+     self.Age =age
+
+   def displayEmployee(self):
+      print ("Name : ", self.name,  ", Salary: ", self.salary,"Age : ",self.Age)
+objects =Employee("Vishali",10000)
+objects.display(22)
+objects.displayEmployee()
+
+print()
+class Employees:
+   
+   def __init__(self):
+     print("222")
+  
+   def view (self,age):
+     self.age =age
+     print (self.age)
+Work =Employees()   
+Work.age(21)  
+
+
+
+
+
+
 
 
