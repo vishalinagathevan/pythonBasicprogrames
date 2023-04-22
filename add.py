@@ -28,4 +28,3 @@ print(type(xx),type(yy),type(zz))
 import random
 nunmber =11
 print(random.randrange(nunmber))
-
